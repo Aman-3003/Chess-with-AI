@@ -70,5 +70,5 @@ This project is open source under the MIT License.
 🙋‍♂️ Author
 Aman Srivastava
 Connect with me on LinkedIn
-Email: raviraj82891@gmail.com 
+Email: as0448380@gmail.com
 
