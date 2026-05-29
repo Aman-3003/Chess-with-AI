@@ -68,7 +68,7 @@ Improve AI with machine learning or evaluation heuristics
 This project is open source under the MIT License.
 
 🙋‍♂️ Author
-Raviraj Sharma
+Aman Srivastava
 Connect with me on LinkedIn
 Email: raviraj82891@gmail.com 
 
